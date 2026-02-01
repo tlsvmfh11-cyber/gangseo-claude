@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gangseo-noraebang.com/sitemap.xml
+
+# 강서 노래방 - 강서구 프리미엄 룸 노래방
