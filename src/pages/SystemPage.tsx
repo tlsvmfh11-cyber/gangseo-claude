@@ -39,7 +39,7 @@ export default function SystemPage() {
       <SEOHead
         title="강서 노래방 시스템 | 초이스·입장·이용 방법 완벽 안내"
         description="강서 노래방 시스템을 상세히 안내합니다. 예약부터 입장, 초이스 진행, 매니저 서비스, 시간 연장, 정산까지 모든 이용 절차를 순서대로 설명합니다. 처음 방문하시는 분도 이 페이지를 읽으시면 전체 흐름을 파악하실 수 있습니다. 강서 노래방 시스템이 궁금하셨다면 지금 확인하세요."
-        canonical="https://gangseo-noraebang.com/system"
+        canonical="https://gangseojanghon.com/system"
         keywords="강서 노래방 시스템, 강서 노래방 초이스, 강서 노래방 이용방법, 강서 노래방 예약, 강서구 노래방 시스템, 노래방 초이스 방법"
       />
       <WebPageSchema

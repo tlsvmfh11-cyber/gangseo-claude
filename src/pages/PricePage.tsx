@@ -39,7 +39,7 @@ export default function PricePage() {
       <SEOHead
         title="강서 노래방 가격 | 2025 최신 룸비·주류·서비스 요금표"
         description="강서 노래방 가격을 투명하게 공개합니다. 룸 이용료, 주류 가격, 매니저 서비스 비용까지 모든 항목을 사전에 안내해 드립니다. 강서 노래방 가격이 궁금하셨다면 이 페이지에서 확인하세요. 예산별 맞춤 코스 안내와 단체 할인 정보도 함께 제공합니다. 합리적인 가격에 프리미엄 서비스를 경험하세요."
-        canonical="https://gangseo-noraebang.com/price"
+        canonical="https://gangseojanghon.com/price"
         keywords="강서 노래방 가격, 강서 노래방 요금, 강서 노래방 룸비, 강서 노래방 주류 가격, 강서구 노래방 가격, 강서 룸노래방 가격표"
       />
       <WebPageSchema

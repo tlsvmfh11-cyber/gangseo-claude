@@ -73,7 +73,7 @@ export default function ReviewPage() {
       <SEOHead
         title="강서 노래방 후기 | 실제 이용자 생생 리뷰 모음"
         description="강서 노래방 후기를 확인하세요. 실제 방문하신 분들의 솔직한 이용 경험과 평가를 모았습니다. 가격 만족도, 서비스 품질, 시설 상태, 초이스 경험까지 다양한 관점의 강서 노래방 후기를 확인하고 방문 전 참고하세요. 처음 방문을 고려 중이라면 이 후기들이 판단에 도움이 될 것입니다."
-        canonical="https://gangseo-noraebang.com/review"
+        canonical="https://gangseojanghon.com/review"
         keywords="강서 노래방 후기, 강서 노래방 리뷰, 강서 노래방 평가, 강서구 노래방 후기, 강서 노래방 이용 후기, 강서 룸노래방 후기"
       />
       <WebPageSchema

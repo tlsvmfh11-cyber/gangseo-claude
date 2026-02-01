@@ -9,6 +9,7 @@ interface SEOHeadProps {
   ogDescription?: string;
   ogImage?: string;
   ogType?: string;
+  robots?: string;
 }
 
 export default function SEOHead({
@@ -18,8 +19,9 @@ export default function SEOHead({
   keywords,
   ogTitle,
   ogDescription,
-  ogImage = 'https://gangseo-noraebang.com/images/hero.jpg',
+  ogImage = 'https://gangseojanghon.com/images/hero.jpg',
   ogType = 'website',
+  robots = 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1',
 }: SEOHeadProps) {
   return (
     <Helmet>
@@ -28,8 +30,12 @@ export default function SEOHead({
       <link rel="canonical" href={canonical} />
       {keywords && <meta name="keywords" content={keywords} />}
 
+      {/* hreflang - 페이지별 동적 관리 */}
+      <link rel="alternate" hrefLang="ko" href={canonical} />
+      <link rel="alternate" hrefLang="x-default" href={canonical} />
+
       {/* Robots */}
-      <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+      <meta name="robots" content={robots} />
 
       {/* Open Graph */}
       <meta property="og:title" content={ogTitle || title} />

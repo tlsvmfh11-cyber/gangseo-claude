@@ -1,6 +1,6 @@
 import { Helmet } from 'react-helmet-async';
 
-const SITE_URL = 'https://gangseo-noraebang.com';
+const SITE_URL = 'https://gangseojanghon.com';
 const BUSINESS_NAME = '강서 노래방';
 
 /* ────────────────────────────────

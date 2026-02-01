@@ -33,7 +33,7 @@ export default function HomePage() {
       <SEOHead
         title="강서 노래방 | 강서구 프리미엄 룸 노래방 가격·시스템·후기 안내"
         description="강서 노래방 공식 안내 페이지입니다. 강서구 프리미엄 룸 노래방의 투명한 가격표, 초이스 시스템, 실제 이용 후기를 확인하세요. 처음 방문하시는 분도 부담 없이 이용하실 수 있도록 모든 정보를 솔직하게 안내합니다. 강서 노래방 가격, 강서 노래방 시스템이 궁금하시다면 지금 확인하세요."
-        canonical="https://gangseo-noraebang.com/"
+        canonical="https://gangseojanghon.com/"
         keywords="강서 노래방, 강서구 노래방, 강서 노래방 가격, 강서 노래방 시스템, 강서 노래방 후기, 강서 룸노래방, 강서 가라오케, 강서구 룸"
       />
       <WebPageSchema

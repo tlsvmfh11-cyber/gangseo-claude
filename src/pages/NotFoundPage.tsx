@@ -7,7 +7,8 @@ export default function NotFoundPage() {
       <SEOHead
         title="페이지를 찾을 수 없습니다 | 강서 노래방"
         description="요청하신 페이지를 찾을 수 없습니다. 강서 노래방 메인 페이지로 이동하여 가격, 시스템, 후기 정보를 확인하세요."
-        canonical="https://gangseo-noraebang.com/"
+        canonical="https://gangseojanghon.com/"
+        robots="noindex, follow"
       />
       <section className="section" style={{ paddingTop: 'calc(var(--header-height) + 4rem)', minHeight: '60vh', display: 'flex', alignItems: 'center' }}>
         <div className="container" style={{ textAlign: 'center' }}>
